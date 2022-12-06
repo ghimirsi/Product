@@ -1,0 +1,5 @@
+
+0001, Laptop, light in weight, 1123.0
+000002, computer, heavy in weight, 1232.0
+000003, mouse, small in size, 12.0
+000004, keyboard, many ports, 123.0
